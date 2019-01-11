@@ -51,12 +51,12 @@ p{
 
 .bottom-container a{
   text-decoration:none;
-  color:white;
+  color:#aedadd;
   padding:0 20px;
 }
 
 .bottom-container a:hover{
-  color:#aedadd;
+  color:white;
 }
 
 .bottom-container p{
