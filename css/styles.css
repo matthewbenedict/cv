@@ -138,3 +138,8 @@ p{
   margin-top:50px;
   clear:both;
 }
+
+.mountain-img{
+  position:relative;
+  top:5px;
+}
