@@ -16,7 +16,7 @@ h2{
   color:#db996c;
   font-family: 'Montserrat', sans-serif;
   font-size:2rem;
-  margin-bottom:40px;
+  margin-bottom:60px;
 
 }
 
@@ -98,7 +98,7 @@ p{
 
 .cooking-img{
   float:right;
-  margin:20px;
+  margin:20px 20px 50px 20px;
 }
 
 .hr-style{
@@ -133,5 +133,8 @@ p{
 }
 
 .contact-me{
-  margin:50px 0 120px 0;
+  padding:50px 0 50px 0;
+  background-color:#fcf8f3;
+  margin-top:50px;
+  clear:both;
 }
